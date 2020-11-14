@@ -12,7 +12,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Bootleggers version in About phone -->
-    <string name="rom_version_title">Bootleggers version</string>
+    <string name="rom_version_title">ブートレガーズ・バーション</string>
 
     <!-- Fingerprint location message - default -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
@@ -39,18 +39,18 @@
     <string name="device_info_protected_single_press">Tap to show info</string>
 
     <!-- Bootleg Dumpster -->
-    <string name="bootleg_dumpster_title">Bootleg Dumpster</string>
+    <string name="bootleg_dumpster_title">ブートレグ・ダンプスター</string>
     <string name="bootleg_dumpster_summary">Where the broken stuff is placed</string>
 
     <!-- Bootleggers extra data -->
     <!-- Build date, parsed? -->
-    <string name="bootleggers_build_date">Build date</string>
+    <string name="bootleggers_build_date">ビルド・デート</string>
     <!-- About phone screen, device maintainer name -->
-    <string name="device_maintainer">Who to blame (Maintainer)</string>
+    <string name="device_maintainer">Who to blame (IzumiProject)</string>
     <!-- Build types, now with translations -->
-    <string name="bootleg_type_official">Official</string>
-    <string name="bootleg_type_unofficial">Unofficial</string>
-    <string name="bootleg_type_unknown">Unsupported. ¯\\_(ツ)_/¯</string>
+    <string name="bootleg_type_official">オフィシャル</string>
+    <string name="bootleg_type_unofficial">アノフィシャル</string>
+    <string name="bootleg_type_unknown">アンサポーティド. ¯\\_(ツ)_/¯</string>
     <string name="bootleggers_releasetype_skeleton">%s (%s)</string>
 
     <!-- Notch behavior -->
@@ -102,18 +102,18 @@
     <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
 
     <!-- SELinux -->
-    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status">SELinux ステータス</string>
     <string name="selinux_status_disabled">Disabled</string>
-    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_permissive">パミシブ</string>
     <string name="selinux_status_enforcing">Enforcing</string>
 
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
 
     <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
-    <string name="show_cpu_info">Show CPU info</string>
+    <string name="show_cpu_info">ショー CPU インフォー</string>
     <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
-    <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+    <string name="show_cpu_info_summary">Screen overlay showing current CPU インフォー</string>
 
     <!-- Notification log --> 
     <string name="notification_log_summary">Show notifications history log</string>
