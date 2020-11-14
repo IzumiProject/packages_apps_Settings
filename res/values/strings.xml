@@ -3147,39 +3147,39 @@
     <string name="pin_failed">SIM PIN operation failed!</string>
 
     <!-- About phone screen, list item title.  Takes the user to the screen for seeing and installing system updates. [CHAR LIMIT=40] -->
-    <string name="system_update_settings_list_item_title">System updates</string>
+    <string name="system_update_settings_list_item_title">サイテム・アプデート</string>
     <!-- About phone screen, list item summary.  Takes the user to the screen for seeing and installing system updates. [CHAR LIMIT=40] -->
     <string name="system_update_settings_list_item_summary">""</string>
 
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
-    <string name="firmware_version">Android version</string>
+    <string name="firmware_version">アンドロイド・バーション</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=60] -->
-    <string name="security_patch">Android security patch level</string>
+    <string name="security_patch">セキュアリティー・パッチ</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
-    <string name="model_info">Model</string>
+    <string name="model_info">モデル</string>
     <!-- About phone screen, status item summary  [CHAR LIMIT=40] -->
-    <string name="model_summary">Model&#58; %1$s</string>
+    <string name="model_summary">モデル&#58; %1$s</string>
     <!-- About phone screen, dialog title for showing hardware information such as model, serial number, etc.[CHAR LIMIT=60] -->
-    <string name="hardware_info">Model &amp; hardware</string>
+    <string name="hardware_info">モデル &amp; ハードウェア</string>
     <!-- Label for device's hardware revision value [CHAR LIMIT=40] -->
-    <string name="hardware_revision">Hardware version</string>
+    <string name="hardware_revision">ハードウェア・バーション</string>
     <!-- About phone screen, fcc equipment id label  [CHAR LIMIT=40] -->
-    <string name="fcc_equipment_id">Equipment ID</string>
+    <string name="fcc_equipment_id">エクィプメント・イッド</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
-    <string name="baseband_version">Baseband version</string>
+    <string name="baseband_version">ベースバンド・バーション</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
-    <string name="kernel_version">Kernel version</string>
+    <string name="kernel_version">カーネル・バーション</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
-    <string name="build_number">Build number</string>
+    <string name="build_number">ビルド・ナンバー</string>
     <!-- About phone screen, tapping this button will take user to a seperate UI to check Google Play system update [CHAR LIMIT=60] -->
-    <string name="module_version">Google Play system update</string>
+    <string name="module_version">グーグル・プレー・サイテム・アプデート</string>
 
     <!-- About phone screen, show when a value of some status item is unavailable. -->
-    <string name="device_info_not_available">Not available</string>
+    <string name="device_info_not_available">ノット・アバイブル</string>
     <!-- About phone screen, phone status screen title -->
-    <string name="device_status_activity_title">Status</string>
+    <string name="device_status_activity_title">ステータス</string>
     <!-- About phone screen, title of the item to go into the Phone status screen -->
-    <string name="device_status">Status</string>
+    <string name="device_status">ステータス</string>
     <!-- About tablet screen, summary of the item that takes you to tablet status screen -->
     <string name="device_status_summary" product="tablet">Status of the battery, network, and other information</string>
     <!-- About phone screen, summary of the item to go into the phone status screen -->
@@ -3197,9 +3197,9 @@
     <!-- [CHAR LIMIT=100] Main settings screen item's summary for the SD card and storage settings -->
     <string name="storage_settings_summary" product="default">Unmount SD card, view available storage</string>
     <!-- About phone screen, title for IMEI for multi-sim devices -->
-    <string name="imei_multi_sim">IMEI (sim slot %1$d)</string>
+    <string name="imei_multi_sim">アイ・エム・イー・アイ (sim slot %1$d)</string>
     <!-- Do not translate. About phone, status item title -->
-    <string name="status_imei">IMEI</string>
+    <string name="status_imei">アイ・エム・イー・アイ</string>
     <!-- Do not translate. About phone, status item title -->
     <string name="status_imei_sv">IMEI SV</string>
     <!-- Do not translate. About phone, status item title -->
@@ -3207,21 +3207,21 @@
     <!-- About tablet, status item title.  The Mobile Directory Number [CHAR LIMIT=40] -->
     <string name="status_number" product="tablet">MDN</string>
     <!-- About phone, status item title.  The phone number of the current device [CHAR LIMIT=40] -->
-    <string name="status_number" product="default">Phone number</string>
+    <string name="status_number" product="default">フォーン・ナンバー</string>
     <!-- About tablet, status item title for multi-sim devices.  The Mobile Directory Number [CHAR LIMIT=40] -->
     <string name="status_number_sim_slot" product="tablet">MDN (sim slot %1$d)</string>
     <!-- About phone, status item title for multi-sim devices.  The phone number of the current device [CHAR LIMIT=40] -->
-    <string name="status_number_sim_slot" product="default">Phone number (sim slot %1$d)</string>
+    <string name="status_number_sim_slot" product="default">フォーン・ナンバー (sim slot %1$d)</string>
     <!-- About tablet, status item title.  The Mobile Directory Number [CHAR LIMIT=30] -->
     <string name="status_number_sim_status" product="tablet">MDN on SIM</string>
     <!-- About phone, status item title.  The phone number of the current device [CHAR LIMIT=30] -->
-    <string name="status_number_sim_status" product="default">Phone number on SIM</string>
+    <string name="status_number_sim_status" product="default">フォーン・ナンバー on SIM</string>
     <!-- About phone, status item title.  The phone MIN number of the current device.-->
     <string name="status_min_number">MIN</string>
     <!-- About phone, status item title.  The phone MSID number of the current device.-->
     <string name="status_msid_number">MSID</string>
     <!-- About phone, status item title.  The phone PRL Version of the current device.-->
-    <string name="status_prl_version">PRL version</string>
+    <string name="status_prl_version">PRL バーション</string>
     <!-- About phone screen, title for MEID for multi-sim devices -->
     <string name="meid_multi_sim">MEID (sim slot %1$d)</string>
     <!-- The status text when both Wi-Fi scanning and Bluetooth scanning are on. [CHAR LIMIT=100] -->
